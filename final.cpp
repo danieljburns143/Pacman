@@ -1,6 +1,5 @@
-// final.cpp
 // Pacman
-// Daniel Burns / Sean Howley
+// Daniel Burns
 
 #include <iostream>
 #include <iomanip>

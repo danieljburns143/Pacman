@@ -1,5 +1,5 @@
 // pacman.h
-// Daniel Burns / Sean Howley
+// Daniel Burns
 
 #ifndef PACMAN_H
 #define PACMAN_H

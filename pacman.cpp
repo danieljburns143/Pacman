@@ -1,5 +1,5 @@
 // pacman.cpp
-// Daniel Burns / Sean Howley
+// Daniel Burns
 
 #include "gfxnew.h"
 #include "pacman.h"
